@@ -1,0 +1,38 @@
+{
+  "content":[
+  {
+    "id":"5ca94a8ac470d3e47cd4713c",
+    "model":"fusion",
+    "components":[
+      {
+        "name":"pcb"
+      }
+    ]
+  }
+],
+  "pageable":{
+    "sort":{
+      "empty":true,
+      "unsorted":true,
+      "sorted":false
+    },
+    "offset":0,
+    "pageSize":1,
+    "pageNumber":0,
+    "paged":true,
+    "unpaged":false
+  },
+  "totalElements":1,
+  "last":true,
+  "totalPages":1,
+  "size":1,
+  "number":0,
+  "sort":{
+    "empty":true,
+    "unsorted":true,
+    "sorted":false
+  },
+  "numberOfElements":1,
+  "first":true,
+  "empty":false
+}

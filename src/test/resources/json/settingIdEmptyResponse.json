@@ -1,0 +1,4 @@
+{
+  "message": "settingId parameter must be required!",
+  "status": "BAD_REQUEST"
+}
